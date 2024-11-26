@@ -1,0 +1,25 @@
+[
+    {
+      "Author": "Taurenkey (Puni.sh)",
+      "Name": "Chat 2",
+      "Punchline": " ",
+      "Description": " ",
+      "Changelog": "",
+      "Tags": [
+            "Social",
+            "UI",
+            "Chat",
+            "Replacement"
+        ],
+      "InternalName": "ChatTwo",
+      "AssemblyVersion": "0.0.0.1",
+      "TestingAssemblyVersion": "0.0.0.1",
+      "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 10,
+      "DownloadLinkInstall": "https://github.com/TCDS-Love/Chat-two/raw/refs/heads/master/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/TCDS-Love/Chat-two/raw/refs/heads/master/latest.zip",
+      "DownloadLinkTesting": "https://github.com/TCDS-Love/Chat-two/raw/refs/heads/master/latest.zip",
+      "IconUrl": "null"
+    }
+]
